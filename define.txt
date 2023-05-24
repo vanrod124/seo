@@ -1,0 +1,12 @@
+what is seo?
+Data Analysis: Python's data analysis libraries, such as Pandas and NumPy, can be used to analyze your website's data. This can help you understand your website's performance and identify areas for improvement.
+
+Web Scraping: Python's BeautifulSoup and Scrapy libraries can be used for web scraping. This can help you understand how other websites are structured and what keywords they are using.
+
+Automating SEO Tasks: Python can be used to automate repetitive SEO tasks. For example, you can use Python to automatically generate SEO-friendly URLs for your website.
+
+Keyword Analysis: Python can be used to analyze keywords. You can use Python's natural language processing libraries, such as NLTK and spaCy, to identify popular keywords and phrases.
+
+Site Audits: Python can be used to perform site audits. You can use Python to check for broken links, missing meta tags, and other SEO issues.
+
+Content Optimization: Python can be used to optimize your website's content. You can use Python's text processing capabilities to create SEO-friendly content.
